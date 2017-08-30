@@ -1,1 +1,0 @@
-﻿<%@ Application Inherits="HHPSWebAPI.Global" %>
