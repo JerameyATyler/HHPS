@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HHPSWebAPI", "HHPSWebAPI\HHPSWebAPI.csproj", "{B25F268E-AF30-4FCA-BFFA-2EB42AAC7BF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HHPSWebAPI.Tests", "HHPSWebAPI.Tests\HHPSWebAPI.Tests.csproj", "{433FA50D-FB23-4620-AA07-6DA1083E7B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B25F268E-AF30-4FCA-BFFA-2EB42AAC7BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25F268E-AF30-4FCA-BFFA-2EB42AAC7BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25F268E-AF30-4FCA-BFFA-2EB42AAC7BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25F268E-AF30-4FCA-BFFA-2EB42AAC7BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433FA50D-FB23-4620-AA07-6DA1083E7B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433FA50D-FB23-4620-AA07-6DA1083E7B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433FA50D-FB23-4620-AA07-6DA1083E7B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433FA50D-FB23-4620-AA07-6DA1083E7B16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
