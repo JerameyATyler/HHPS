@@ -1,0 +1,17 @@
+﻿Blood Drive Pyramid Scam
+Abstract: Hurricane Harvey has increased the immediate need for blood donations. As a way to increase blood donations I propose a modified version of a Pyramid Scam to promote blood donations.
+
+
+Pyramid Scam: A Pyramid scam is an old confidence game where a person buys into an investment opportunity and they are given additional investment principal based on the number of investors they convince to join the pyramid and the process repeats with each person getting a share of everything in the pyramid that comes below them. 
+
+
+Blood Drive Pyramid Scam: I propose an incentive method for encouraging people to donate blood based off of the classic pyramid scheme. A person would buy into the pyramid with $1 and some form of verification that they have donated blood. They are given 1 entry into a drawing. When entering the pyramid if the new person has a referral the referrer is given a partial entry into the drawing. At the end of the collection period everyone’s entries are tallied and a winner is chosen. 
+
+
+Entry allocation: A person who donates the required amount of money and has provided proof that they donated blood (proof accepted and additional accommodations for people who cannot donate blood for any reason) is given one entry. For every two people who use the original person as a referral the referrer receives an additional entry. Additionally whenever someone downstream (someone who is descended unbroken) from the referrer receives an additional entry the original referrer receives one as well. This method skews heavily in favor of those who have the most active downstreams. Finding active people to convince will drastically increase a person’s probability of winning. At level one a person has 1 entry. After completing level 2 a person has 3. After level 3 the person has 7 entries. Etc. 
+
+
+Drawing: The bulk of all money donated should go to a charity with the remainder being awarded as prizes in the drawing. I don’t know exactly what formula should be used to determine how much goes to charity and how much goes to prizes but I believe a logarithmic function would combat the potential snowball effect of prize money. A similar function could be used to determine the proper number of prizes to be awarded so as to increase the fairness to people who enter into the drawing later.
+
+
+github:https://github.com/JerameyATyler/HHPS
