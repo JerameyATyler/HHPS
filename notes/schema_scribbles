@@ -1,0 +1,12 @@
+node table
+primary key user_hash (a hash of user's face)
+
+edge table
+user_hash_a fk node user_hash
+user_hash_b fk node user_hash
+cause fk causes cause_hash
+
+causes table
+cause_hash pk (a hash of a cause)
+
+about as bare bones as I think I can get it.
