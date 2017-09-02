@@ -1,0 +1,8 @@
+Build visuals myself in WebGL. Surannga will provide pseudocode for the physics. Nolan is supposed to be getting the
+backend together, I need to make a database (postgres). Really I'm just drawing nodes and edges, with each being capable of
+having their own weights. Visually as an edge gets heavier it should become shorter until the 2 nodes join into a single node.
+
+A circular 2D plane with the hashtag ("#") at the center with the lightest weight of all nodes. Each node is connected with every
+node it has worked with before. The connections get stronger with repeated collaboration. A node gets heavier with repeated work.
+It can be visualized as a 2D elastic sheet. The # is painted on it. Marbles are dropped on it. Some have springs between them and
+some grow and some do both and some do neither. Like little pacmans.
