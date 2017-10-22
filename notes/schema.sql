@@ -25,7 +25,7 @@ create table causes(
 
 drop TABLE IF EXISTS users;
 create table users(
-  node UUID NOT NULL,
+  node UUID NOT NULL PRIMARY KEY,
   first text NOT NULL,
   last text NOT NULL,
   email text NOT NULL,
@@ -35,6 +35,7 @@ create table users(
 
 drop TABLE IF EXISTS pot;
 create TABLE pot(
+  cause UUID NOT NULL PRIMARY KEY,
   total INTEGER NOT NULL,
   next_payout INTEGER NOT NULL
 );
