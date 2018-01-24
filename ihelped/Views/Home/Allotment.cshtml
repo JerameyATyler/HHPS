@@ -1,0 +1,18 @@
+@page
+@model ihelped.Pages.AllotmentModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<html>
+    <body>
+        <h2>Coin Allotments</h2>
+        
+        <div asp-validation-summary="All"></div>
+        <form method="POST">
+            <div>Fundraiser A: <input value="" type="text" /></div>
+            
+            <div>Fundraiser B: <input value="" type="text" /></div>
+
+            <input type="submit" />
+        </form>
+    </body>
+</html>

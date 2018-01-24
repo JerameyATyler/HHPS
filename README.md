@@ -1,4 +1,2 @@
 # ihelped.today
-ihelped.today is a social idea and an accompanying website. 
-
-The basic premise is to inspire people to do something good and create a visual to show people a representation of their impact.
+ihelped.today is a fundraising platform designed to incentivize donars into recruiting new donars. The bulk of the donations collected go to the stated cause, the rest are giving back to some donars in a lottery style game. 

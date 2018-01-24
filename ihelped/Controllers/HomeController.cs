@@ -15,17 +15,37 @@ namespace ihelped.Controllers
             return View();
         }
 
-        public IActionResult How()
+        public IActionResult FAQ()
         {
             return View();
         }
 
-        public IActionResult What()
+        public IActionResult Signin()
         {
             return View();
         }
 
-        public IActionResult Who()
+        public IActionResult Register()
+        {
+            return View();
+        }
+
+        public IActionResult Account()
+        {
+            return View();
+        }
+
+        public IActionResult Coins()
+        {
+            return View();
+        }
+
+        public IActionResult Allotment()
+        {
+            return View();
+        }
+
+        public IActionResult Referral()
         {
             return View();
         }
@@ -34,7 +54,5 @@ namespace ihelped.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
-
-
     }
 }
